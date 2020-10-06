@@ -1,0 +1,19 @@
+```
+I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/Chap0_Day2.rpy", line 3802, in <module>
+NameError: name 'Yolanda_0_001' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "Chap0_Day2.rpyc", line 3802, in script
+  File "renpy/ast.py", line 1832, in execute
+  File "renpy/python.py", line 2059, in py_eval
+  File "renpy/python.py", line 2052, in py_eval_bytecode
+  File "game/Chap0_Day2.rpy", line 3802, in <module>
+NameError: name 'Yolanda_0_001' is not defined
+
+```
+
